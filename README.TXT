@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+For all those that wish they could play flappy bird again.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Flappy Bird
+PURPOSE OF PROJECT: For fun and to show off what I have learned so far.
+VERSION or DATE: 2018
+HOW TO START THIS PROJECT: Run the main method
+AUTHORS: Patrick Barber
+USER INSTRUCTIONS: After starting the program use the spacebar to jump.
